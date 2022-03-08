@@ -15,5 +15,5 @@ I am a Full Stack Software Developer. I enjoy learning new technologies, develop
 ## [Steam App](https://pvtgandalf.github.io/Steam-App)
 
 ## [Tweeter](https://pvtgandalf.github.io/Tweeter)
-<img title="Tweeter [Home Page]" alt="Tweeter [Home Page]" src="/images/portfolio/Tweeter[Home].jpg">
-<img title="Tweeter [Post Page]" alt="Tweeter [Post Page]" src="/images/portfolio/Tweeter[Post].jpg">
+<img title="Tweeter [Home Page]" alt="Tweeter [Home Page]" src="/images/portfolio/Tweeter[Home].jpeg">
+<img title="Tweeter [Post Page]" alt="Tweeter [Post Page]" src="/images/portfolio/Tweeter[Post].jpeg">
