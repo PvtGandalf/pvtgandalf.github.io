@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pvtgandalf.github.io/myWebsite",
+  "homepage": "http://pvtgandalf.github.io",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
