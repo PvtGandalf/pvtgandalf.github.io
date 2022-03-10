@@ -2,21 +2,21 @@
 I am a Full Stack Software Developer. I enjoy learning new technologies, developing projects that will be adopted by others, and building connections with similarly passionate individuals.
 
 # Projects
-## [Marvel Comic Wiki](https://pvtgandalf.github.io/Marvel-Comic-Wiki)
+## [Marvel Comic Wiki](https://pvtgandalf.github.io/MarvelComicWiki)
 This service retrieves data from Marvel's Developer API and provides the user with a simple UI to traverse through Marvel's database.
 <table><tr>
 <td> <img title="Marvel Comic Wiki [Home Page]" alt="Marvel Comic Wiki [Home Page]" src="/public/images/portfolio/MarvelComicWiki[Home].jpeg"/> </td>
 <td> <img title="Marvel Comic Wiki [Character Page]" alt="Marvel Comic Wiki [Character Page]" src="/public/images/portfolio/MarvelComicWiki[Characters].jpeg"/> </td>
 </tr></table>
 
-## [Candy Store](https://pvtgandalf.github.io/Candy-Store)
+## [Candy Store](https://pvtgandalf.github.io/CandyStore)
 This website is a basic implementation of using redux stores within a React-based application.
 <table><tr>
 <td> <img title="Candy Store [Shop Page]" alt="Candy Store [Shop Page]" src="/public/images/portfolio/CandyStore[Shop].jpg"/> </td>
 <td> <img title="Candy Store [Cart Page]" alt="Candy Store [Cart Page]" src="/public/images/portfolio/CandyStore[Cart].jpg"/> </td>
 </tr></table>
 
-## [Music Streaming API](https://pvtgandalf.github.io/Music-Streaming-API)
+## [Music Streaming API](https://pvtgandalf.github.io/MusicStreamingAPI)
 This REST API emulates some of the requirements of a music streaming service.
 <table>
 <tr>
@@ -29,7 +29,7 @@ This REST API emulates some of the requirements of a music streaming service.
 </tr>
 </table>
 
-## [Steam App](https://pvtgandalf.github.io/Steam-App)
+## [Steam App](https://pvtgandalf.github.io/SteamApp)
 This android application pulls data from the public Steam API and provides the user with basic information provided within Steam's database.
 <table><tr>
 <td align="center"> <img title="Steam App [Search]" alt="Steam App [Search]" src="/public/images/portfolio/SteamApp[Search].png" width="60%" height="auto" align="center"/> </td>
