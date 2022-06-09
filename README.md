@@ -2,6 +2,13 @@
 I am a Full Stack Software Developer. I enjoy learning new technologies, developing projects that will be adopted by others, and building connections with similarly passionate individuals.
 
 # Projects
+## Helping My Friend - [[Live Site](http://helpingmyfriend.com)]
+This is an all-in-one platform that allows its users to create/share projects with the option to enable fundraising, meal-planning and work party scheduling.
+<table><tr>
+<td> <img title="HelpingMyFriend.com [Home Page]" alt="HelpingMyFriend.com [Home Page]" src="/public/images/portfolio/HMF[Home].jpeg"/> </td>
+<td> <img title="HelpingMyFriend.com [Project Page]" alt="HelpingMyFriend.com [Project Page]" src="/public/images/portfolio/HMF[Project].jpeg"/> </td>
+</tr></table>
+
 ## Marvel Comic Wiki - [[Live Demo](https://main.d1c9vulyxwkdj2.amplifyapp.com)] [[View Code](https://github.com/PvtGandalf/MarvelComicWiki)]
 This service retrieves data from Marvel's Developer API and provides the user with a simple UI to traverse through Marvel's database.
 <table><tr>
