@@ -1,5 +1,5 @@
 # Jaiden Hodson
-I am a Full Stack Software Developer. I enjoy learning new technologies, developing projects that will be adopted by others, and building connections with similarly passionate individuals.
+I am a Full Stack Software Developer living within the Linn County area. Below are some of the projects I've worked on.
 
 # Projects
 ## Helping My Friend - [[Live Site](http://helpingmyfriend.com)]
