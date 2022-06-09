@@ -12,7 +12,7 @@ let resumeData = {
       },
       {
         "name":"github",
-        "url":"https://github.com/PvtGandalf",
+        "url":"https://github.com/PvtGandalf/pvtgandalf.github.io",
         "className":"fa fa-github"
       }
     ],
@@ -24,10 +24,10 @@ let resumeData = {
     {
       "UniversityName":"Oregon State University",
       "specialization":"Bachelor of Computer Science",
-      "MonthOfPassing":"March",
+      "MonthOfPassing":"June",
       "YearOfPassing":"2022",
       "Focus":"Mobile and Web Application Software",
-      "GPA":"3.72"
+      "GPA":"3.74"
     },
     {
       "UniversityName":"South Albany High School",
@@ -82,6 +82,65 @@ let resumeData = {
     }
   ],
   "portfolio":[
+    {
+      "name":"Helping My Friend",
+      "description":"All-in-one platform that allows its users to create/share projects with the option to enable fundraising, meal-planning and work party scheduling",
+      "course":"Senior Capstone Project (Oregon State University)",
+      "altDescription":"All-in-one platform centered around supporting those within our community",
+      "achievements":[
+        {
+          "achievement": "Frontend GUI built using EJS as the rendering engine."
+        },
+        {
+          "achievement": "Backend REST API built using Node.js and Express."
+        },
+        {
+          "achievement": "API documentation organized using Postman and SwaggerHub."
+        },
+        {
+          "achievement": "Backend database managed using MongoDB."
+        },
+        {
+          "achievement": "Payment processing connected with PayPal’s developer API."
+        },
+        {
+          "achievement": "Servers hosted within Heroku Dynos and MongoDB Atlas."
+        }
+      ],
+      "location":"Corvallis, Oregon",
+      "dateStart":"August 2021",
+      "dateEnd":"Present",
+      "imgurl":"images/portfolio/HMF.png",
+      "projecturl":"http://helpingmyfriend.com/"
+    },
+    {
+      "name":"Marvel Comic Wiki",
+      "description":"This service retrieves data from Marvel's Developer API and provides the user with a simple UI to traverse through Marvel's database",
+      "course":"Advanced Web Development - CS 499 (Oregon State University)",
+      "altDescription":"Website for gathering information within the Marvel Comic Universe",
+      "achievements":[
+        {
+          "achievement": "ReactJS used as the web framework for server development."
+        },
+        {
+          "achievement": "Marvel’s Developer API used for data retrieval."
+        },
+        {
+          "achievement": "Bootstrap used for initial UI components."
+        },
+        {
+          "achievement": "Styling implemented using Emotion’s Styled Component method."
+        },
+        {
+          "achievement": "Demo site hosted using AWS Amplify."
+        }
+      ],
+      "location":"Corvallis, Oregon",
+      "dateStart":"January 2022",
+      "dateEnd":"March 2022",
+      "imgurl":"images/portfolio/MarvelComicWiki.jpg",
+      "projecturl":"https://main.d1c9vulyxwkdj2.amplifyapp.com/"
+    },
     {
       "name":"Music Streaming API",
       "description":"API developed to emulate the requirements of a music streaming service",
@@ -140,34 +199,6 @@ let resumeData = {
       "dateEnd":"March 2021",
       "imgurl":"images/portfolio/Steam.jpg",
       "projecturl":"https://github.com/PvtGandalf/SteamApp"
-    },
-    {
-      "name":"Mock Twitter Website",
-      "description":"Web application designed with similar functionality to Twitter",
-      "course":"Web Development - CS 290 (Oregon State University)",
-      "altDescription":"Web-based application with functionality similar to Twitter",
-      "achievements":[
-        {
-          "achievement": "Client interface implemented using HTML and CSS."
-        },
-        {
-          "achievement": "Client-side Javascript used to enable user interactions with the UI."
-        },
-        {
-          "achievement": "Application served using Node.js."
-        },
-        {
-          "achievement": "Pages dynamically generated using data stored within a MongoDB."
-        },
-        {
-          "achievement": "Client interface communicates with the app’s server to create, read, update, and/or delete content in the back-end data store."
-        }
-      ],
-      "location":"Corvallis, Oregon",
-      "dateStart":"April 2020",
-      "dateEnd":"June 2020",
-      "imgurl":"images/portfolio/Twitter.jpg",
-      "projecturl":"https://github.com/PvtGandalf/Tweeter"
     }
   ],
   "testimonials":[
