@@ -43,7 +43,7 @@ This android application pulls data from the public Steam API and provides the u
 <td align="center"> <img title="Steam App [Games]" alt="Steam App [Games]" src="/public/images/portfolio/SteamApp[Games].png" width="60%" height="auto"/> </td>
 </tr></table>
 
-## Tweeter - [[Live Demo](https://main.d166y66fqkvynl.amplifyapp.com)] [[View Code](https://github.com/PvtGandalf/Tweeter)]
+## Tweeter - [[View Code](https://github.com/PvtGandalf/Tweeter)]
 This website is a mock version of twitter, showcasing a simple post being created and presented.
 <table><tr>
 <td> <img title="Tweeter [Home Page]" alt="Tweeter [Home Page]" src="/public/images/portfolio/Tweeter[Home].jpeg"/> </td>
