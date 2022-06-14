@@ -2,6 +2,13 @@
 I am a Full Stack Software Developer living within the Linn County area. Below are some of the projects I've worked on.
 
 # Projects
+## Whole Body Health - [[Live Demo](https://main.d3s3bgzi9y4jfb.amplifyapp.com/)]
+This website uses my personally designed API to pull data into the UI that dynamically adjusts to its content.
+<table><tr>
+<td> <img title="Whole Body Health [All Blogs]" alt="Whole Body Health [All Blogs]" src="/public/images/portfolio/WBH[AllBlogs].jpeg"/> </td>
+<td> <img title="Whole Body Health [One Blog]" alt="Whole Body Health [One Blog]" src="/public/images/portfolio/WBH[OneBlog].jpeg"/> </td>
+</tr></table>
+
 ## Helping My Friend - [[Live Site](http://helpingmyfriend.com)]
 This is an all-in-one platform that allows its users to create/share projects with the option to enable fundraising, meal-planning and work party scheduling.
 <table><tr>
