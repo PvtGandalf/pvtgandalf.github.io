@@ -19,8 +19,8 @@ This is an all-in-one platform that allows its users to create/share projects wi
 ## Marvel Comic Wiki - [[Live Demo](https://main.d1c9vulyxwkdj2.amplifyapp.com)] [[View Code](https://github.com/PvtGandalf/MarvelComicWiki)]
 This service retrieves data from Marvel's Developer API and provides the user with a simple UI to traverse through Marvel's database.
 <table><tr>
-<td> <img title="Marvel Comic Wiki [Home Page]" alt="Marvel Comic Wiki [Home Page]" src="/public/images/portfolio/MarvelComicWiki[Home].jpeg"/> </td>
-<td> <img title="Marvel Comic Wiki [Character Page]" alt="Marvel Comic Wiki [Character Page]" src="/public/images/portfolio/MarvelComicWiki[Characters].jpeg"/> </td>
+<td> <img title="Marvel Comic Wiki [Character Search]" alt="Marvel Comic Wiki [Character Search]" src="/public/images/portfolio/MarvelComicWiki[CharacterSearch].jpeg"/> </td>
+<td> <img title="Marvel Comic Wiki [Events Information]" alt="Marvel Comic Wiki [Events Information]" src="/public/images/portfolio/MarvelComicWiki[EventsInformation].jpeg"/> </td>
 </tr></table>
 
 ## Beaver Cocktails - [[Live Demo](https://www.figma.com/proto/FdUvNWfBklduvbglLsstXJ/Beaver-Cocktails?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)]
