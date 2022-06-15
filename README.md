@@ -28,7 +28,7 @@ This Figma prototype includes most of the features required from a Cocktail Buil
 <table><tr>
 <td> <img title="Beaver Cocktails [Home]" alt="Beaver Cocktails [Home]" src="/public/images/portfolio/BeaverCocktails[Home].png"/> </td>
 <td> <img title="Beaver Cocktails [Add to My Bar]" alt="Beaver Cocktails [Add to My Bar]" src="/public/images/portfolio/BeaverCocktails[AddToMyBar].png"/> </td>
-<td> <img title="Beaver Cocktails [Recipe Details]" alt="Beaver Cocktails [Recipe Details]" src="/public/images/portfolio/BeaverCocktails[RecipeDetails].png"/> </td>
+<td> <img title="Beaver Cocktails [Barcode Scanner]" alt="Beaver Cocktails [Barcode Scanner]" src="/public/images/portfolio/BeaverCocktails[BarcodeScanner].png"/> </td>
 </tr></table>
 
 ## Candy Store - [[Live Demo](https://main.d1sw7xb3mnxira.amplifyapp.com/)] [[View Code](https://github.com/PvtGandalf/CandyStore)]
