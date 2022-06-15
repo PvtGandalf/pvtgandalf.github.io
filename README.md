@@ -23,6 +23,14 @@ This service retrieves data from Marvel's Developer API and provides the user wi
 <td> <img title="Marvel Comic Wiki [Character Page]" alt="Marvel Comic Wiki [Character Page]" src="/public/images/portfolio/MarvelComicWiki[Characters].jpeg"/> </td>
 </tr></table>
 
+## Beaver Cocktails - [[Live Demo](https://www.figma.com/proto/FdUvNWfBklduvbglLsstXJ/Beaver-Cocktails?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)]
+This Figma prototype includes most of the features required from a Cocktail Builder application.
+<table><tr>
+<td> <img title="Beaver Cocktails [Home]" alt="Beaver Cocktails [Home]" src="/public/images/portfolio/BeaverCocktails[Home].png"/> </td>
+<td> <img title="Beaver Cocktails [Add to My Bar]" alt="Beaver Cocktails [Add to My Bar]" src="/public/images/portfolio/BeaverCocktails[AddToMyBar].png"/> </td>
+<td> <img title="Beaver Cocktails [Recipe Details]" alt="Beaver Cocktails [Recipe Details]" src="/public/images/portfolio/BeaverCocktails[RecipeDetails].png"/> </td>
+</tr></table>
+
 ## Candy Store - [[Live Demo](https://main.d1sw7xb3mnxira.amplifyapp.com/)] [[View Code](https://github.com/PvtGandalf/CandyStore)]
 This website is a basic implementation of using redux stores within a React-based application.
 <table><tr>
