@@ -1,6 +1,3 @@
-# Jaiden Hodson
-I am a Full Stack Software Developer living within the Linn County area. Below are some of the projects I've worked on.
-
 # Projects
 ## Whole Body Health - [[Live Demo](https://main.d3s3bgzi9y4jfb.amplifyapp.com/)]
 This website uses my personally designed API to pull data into the UI that dynamically adjusts to its content.
